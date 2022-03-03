@@ -1,0 +1,24 @@
+{
+  "name": "atm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cucumber.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nakazibwe/ATM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nakazibwe/ATM/issues"
+  },
+  "homepage": "https://github.com/Nakazibwe/ATM#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.3.2",
+    "hamjest": "^3.7.3"
+  }
+}
